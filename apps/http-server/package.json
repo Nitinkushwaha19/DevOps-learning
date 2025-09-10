@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc -b",
     "dev": "npm run build && npm run start",
-    "start": "node dist/indes.js"
+    "start": "node dist/index.js"
   },
   "devDependencies": {
     "@repo/db": "workspace:*",
