@@ -2,6 +2,7 @@
   "name": "http-server",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "build": "tsc -b",
     "dev": "npm run build && npm run start",
